@@ -36,3 +36,6 @@ $ echo "/bin/ls" | ./hsh hsh main.c shell.c test_ls_2 $ $ cat test_ls_2 /bin/ls 
 
 #Authors
 %Olayiwola yunus Abayomi (yuntech), Gabriel Ekong
+
+Am so happy working with you as a collaborator
+Gabriel ekong
