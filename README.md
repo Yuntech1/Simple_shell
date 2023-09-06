@@ -95,4 +95,4 @@ $ Ethio
 
 ### Authors
 [Olayiwola Yunus Abayomi](https://github.com/Yuntech1)
-[Gabriel ekong](https://github.com/Gabriel ekong)
+[yuntech](https://github.com/Gabriel ekong)
