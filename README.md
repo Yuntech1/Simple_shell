@@ -61,7 +61,7 @@ $
 ### Examples
 ```
 $ /bin/pwd
-/home/wiseman/simple_shell
+/home/yuntech1/simple_shell
 ```
 
 ```
